@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Raghuraj 👋
 
-<!--
-**raghuraj-dev/raghuraj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance Full Stack Developer specializing in **Next.js**. With a strong focus on building scalable and efficient web applications, I help businesses and individuals bring their digital ideas to life.
 
-Here are some ideas to get you started:
+## 🌟 What I Do
+- **Frontend Development**: Creating responsive and user-friendly interfaces with Next.js, React, and modern CSS frameworks.
+- **Backend Development**: Building robust APIs and server-side logic using Node.js, Express, and MongoDB.
+- **Performance Optimization**: Ensuring your web applications are fast, reliable, and optimized for the best user experience.
+- **Consultation**: Offering expert advice and guidance on Next.js projects, from planning to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Frontend**: Next.js, React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
+- **DevOps**: Vercel, AWS, Docker, GitHub Actions
+- **Other**: TypeScript, Redux, GraphQL, SEO optimization
+
+## 📫 Get in Touch
+Whether you need help with your Next.js project or have an idea you'd like to discuss, I'm here to help. Reach out to me via:
+- **Email**: askraghuraj@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/raghuraj-dev
+---
+
+Let's create something amazing together! 🚀
